@@ -10,3 +10,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=78DBE2&center=true&vcenter=true&width=600&lines=just+leave+me+alone+if+you+have+a+hatress+on+me." alt="Typing SVG" />
 </p>
+<p align="center">
+  <a href="https://github.com/laviedotok">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=0&color=78DBE2&center=true&vcenter=true&width=70&lines=main&repeat=false" alt="main" />
+  </a>
+  <a href="https://laaaavie.atabook.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=0&color=78DBE2&center=true&vcenter=true&width=60&lines=ata&repeat=false" alt="ata" />
+  </a>
+</p>
