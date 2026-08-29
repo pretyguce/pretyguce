@@ -17,4 +17,7 @@
   <a href="https://laaaavie.atabook.org/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=0&color=78DBE2&center=true&vcenter=true&width=60&lines=ata&repeat=false" alt="ata" />
   </a>
+   <a href="https://laviedotok.straw.page/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=0&color=78DBE2&center=true&vcenter=true&width=60&lines=straw&repeat=false" alt="straw" />
+  </a>
 </p>
