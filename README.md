@@ -8,7 +8,7 @@
 </picture>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=78DBE2&center=true&vcenter=true&width=600&lines=just+leave+me+alone+if+you+have+a+hatress+on+me." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=78DBE2&center=true&vcenter=true&width=600&lines=stop+blamin+on+ppl." alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://github.com/laviedotok">
