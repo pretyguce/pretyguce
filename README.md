@@ -24,3 +24,11 @@
 <p align="right">
   <img src="https://github.com/user-attachments/assets/f5573dfd-a889-475e-b818-43616710da13"width="900" alt="Logo" />
 </p>
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8c5f2e70-a821-4871-85c8-abf85a9cfeba"width="1000" alt="Logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"srcset="img width=1000"https://github.com/user-attachments/assets/643e9e7b-3599-48ed-af92-59e209b60897" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6d9e8b7d-26fa-463f-aa59-5518bc2bc150" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/ac6f03b6-046f-492f-911a-4edbb9b5af69" />
+</picture>
